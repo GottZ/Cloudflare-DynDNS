@@ -36,7 +36,6 @@ export class UserList extends OpenAPIRoute {
     ) {
         // Retrieve the validated parameters
         const { token } = data.query;
-        console.log(env);
 
         // Implement your own object list here
 

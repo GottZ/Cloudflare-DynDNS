@@ -44,8 +44,7 @@ export class UserFetch extends OpenAPIRoute {
         data: Record<string, any>
     ) {
         // Retrieve the validated parameters
-        const { token } = data.query;
-        console.log(env);
+        const { token, userName } = data.query;
 
         // Implement your own object list here
 
