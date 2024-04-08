@@ -1,7 +1,8 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2024 GottZ
+Copyright (c) 2024 Jan-Stefan Janetzky
+Initial Source Repository at https://github.com/GottZ/Cloudflare-DynDNS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
